@@ -1,0 +1,9 @@
+https://www.themoonlight.io/en/review/towards-large-scale-generative-ranking
+
+Mutual Information-aware Knowledge Distillation for Short Video Recommendation
+HoME: Hierarchy of Multi-Gate Experts for Multi-Task Learning at Kuaishou
+---
+Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?
+Towards Web-scale Recommendations with LLMs: From Quality-aware Ranking to Candidate Generation
+Generative Retrieval for Book Search
+NoteLLM-2: Multimodal Large Representation Models for Recommendation
